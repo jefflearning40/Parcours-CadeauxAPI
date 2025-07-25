@@ -6,7 +6,7 @@ Ce projet vous fait pratiquer :
 - Validation des données avec Joi
 - Gestion propre des erreurs avec middleware Express
 
----
+
 
 ## 🎯 Objectif du parcours
 Créer une petite API REST qui permet de :
