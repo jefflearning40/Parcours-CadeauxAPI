@@ -1,15 +1,24 @@
 {
   "name": "parcours-cadeauxapi",
   "version": "1.0.0",
+  "description": "Ce projet vous fait pratiquer :\r - Connexion MySQL avec Node.js\r - Requêtes préparées\r - Validation des données avec Joi\r - Gestion propre des erreurs avec middleware Express",
+  "keywords": [],
+  "homepage": "https://github.com/jefflearning40/Parcours-CadeauxAPI#readme",
+  "bugs": {
+    "url": "https://github.com/jefflearning40/Parcours-CadeauxAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefflearning40/Parcours-CadeauxAPI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
